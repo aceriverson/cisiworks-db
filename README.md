@@ -2,7 +2,7 @@
 This is a WIP sqlite database viewer built on top of Electron using Svelte as the frontend framework.
 Additionally, this project uses a modified copy of ion.css to emulate a native MacOS folder look and feel.
 
-![Example screen shot](https://github.com/aceriverson/cisiworks-db/imgs/scrns.png?raw=true.png)
+![Example screen shot](https://github.com/aceriverson/cisiworks-db/img/scrns.png?raw=true.png)
 
 ## Getting Started
 
